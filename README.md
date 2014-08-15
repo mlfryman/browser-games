@@ -1,10 +1,9 @@
-## name of project
+## Browser Games
 ### Code Badges
-build status icon
-coverage status icon
+N/A
 
 ### About
-write a description about your project
+Browser Games is an app to practice jQuery!
 
 ### Models
 ```
@@ -24,9 +23,9 @@ prop-f
 ```
 
 ### Features
-- feature 1
-- feature 2
-- feature 3
+- Object Oriented
+- Jade
+- Express
 
 ### Running Tests
 ```bash
@@ -35,7 +34,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Melanie Fryman](https://github.com/mlfryman)
 
 ### License
 [MIT](LICENSE)
