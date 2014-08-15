@@ -11,3 +11,7 @@ exports.colors = function(req, res){
 exports.pacman = function(req, res){
   res.render('games/pacman');
 };
+
+exports.painter = function(req, res){
+  res.render('games/painter');
+};

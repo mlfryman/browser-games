@@ -56,3 +56,41 @@ h2 {
   height: 50px;
   border-radius: 10px;
 }
+
+#colors{
+  display: inline-block;
+  border: 1px solid #1111111;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #AAAAAA;
+}
+.color{
+  display: inline-block;
+  border: 1px dashed #111111;
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+#selected{
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  border: 1px solid #111111;
+  background-color: #FFFFFF;
+  border-radius: 50px;
+}
+
+.pixel{
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 2px;
+}
+
+#canvas{
+  font-size: 0px;
+  border: 3px solid black;
+}
